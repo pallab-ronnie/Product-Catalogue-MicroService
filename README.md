@@ -5,6 +5,7 @@ This project is implemented using Spring Boot. JSON is used for Data interchange
 The URLs to access the REST API for GET, POST, DELETE are as follows:
 
 POST: http://localhost:8080/products/ 
+      
       Body:
       {
     	"productId": "301",
