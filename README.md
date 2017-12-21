@@ -3,6 +3,7 @@ Micro-service to maintain product catalogue.
 
 This project is implemented using Spring Boot. JSON is used for Data interchange. In memory database Derby is used for data persistence. 
 The URLs to access the REST API for GET, POST, DELETE are as follows:
+
 POST: http://localhost:8080/products/ 
       Body:
       {
